@@ -23,33 +23,19 @@ A [Windhawk](https://windhawk.net) mod that plays a video as the background of t
 
 ## Installation
 
-1. Install Windhawk and add `logonui.exe` to the process inclusion list.
-2. In Windhawk, click **Create a new mod**.
-3. Replace everything in the editor with the contents of [`lock-screen-live-wallpaper.wh.cpp`](lock-screen-live-wallpaper.wh.cpp).
-4. Click **Compile Mod**, then set the video path in the mod's **Settings** tab.
+1. Install **[Windhawk](https://windhawk.net/)**.
+2. Open **Windhawk** → **Explore**
+3. Search for **[Lock Screen Live Wallpaper]()**
+4. Open the mod page
+5. Click **Install**
 
 Full documentation (settings, performance tips, troubleshooting) is in the mod's readme inside Windhawk.
 
 ## Support
 
 - [Ko-fi](https://ko-fi.com/grn15rens)
-- [Saweria](https://saweria.co/USERNAME) (for Indonesia)
+- [Saweria](https://saweria.co/grn15RenS) (for Indonesia)
 
 ## License
 
-GPL-3.0, see [LICENSE](LICENSE).
-
----
-
-## Bahasa Indonesia
-
-Mod [Windhawk](https://windhawk.net) yang memutar video sebagai latar belakang **lock screen** dan **layar password / sign-in** Windows 11.
-
-**Cara pasang:**
-
-1. Pasang Windhawk, lalu tambahkan `logonui.exe` ke daftar inklusi proses (**Settings → Advanced settings → More advanced settings**).
-2. Di Windhawk, klik **Create a new mod**.
-3. Ganti seluruh isi editor dengan isi file [`lock-screen-live-wallpaper.wh.cpp`](lock-screen-live-wallpaper.wh.cpp).
-4. Klik **Compile Mod**, lalu isi path video di tab **Settings** mod.
-
-Dokumentasi lengkap (pengaturan, tips performa, pemecahan masalah) ada di readme mod di dalam Windhawk.
+This mod is licensed under the GPL-3.0. See [LICENSE](LICENSE) for details.
