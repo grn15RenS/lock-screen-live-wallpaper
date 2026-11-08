@@ -25,7 +25,7 @@ A [Windhawk](https://windhawk.net) mod that plays a video as the background of t
 
 1. Install **[Windhawk](https://windhawk.net/)**.
 2. Open **Windhawk** → **Explore**
-3. Search for **[Lock Screen Live Wallpaper]()**
+3. Search for **[Lock Screen Live Wallpaper](https://windhawk.net/mods/lock-screen-live-wallpaper)**
 4. Open the mod page
 5. Click **Install**
 
