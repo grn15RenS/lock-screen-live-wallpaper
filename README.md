@@ -12,6 +12,7 @@ A [Windhawk](https://windhawk.net) mod that plays a video as the background of t
 - Fit modes: cover, fill, fit, center
 - Playback speed, color adjustments, optional audio
 - Power saving: still-frame mode, pause when idle, boot still frame
+- Hardware (GPU) video decoding with automatic software fallback
 - Fail-safe that restores the original wallpaper if something goes wrong
 
 ## Requirements
