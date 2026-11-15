@@ -17,7 +17,7 @@
 
 <img src="https://i.imgur.com/QFNE1hY.gif" alt="Lock Screen Live Wallpaper preview" width="800">
 
-<sub>Preview video: "Stelle Cosmic Cheerleader" by u/iTaiizer, <a href="REPLACE_WITH_YOUR_SOURCE_LINK">source</a>. Character © HoYoverse. The video is not included in this mod.</sub>
+<sub>Preview video: "初音未来——抖音翩翩" (Hatsune Miku) by 古月方源, <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3802463919">source</a>. Character © Crypton Future Media, INC. The video is not included in this mod.</sub>
 
 </div>
 
